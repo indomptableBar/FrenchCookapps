@@ -1,0 +1,109 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    background: #fffdf9;
+    color: #333;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #b33c00;
+}
+
+.form {
+    margin: 30px 0;
+}
+
+select, button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 1em;
+}
+
+.result {
+    margin-top: 20px;
+    background: #fff7f0;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+/* ========================
+   MODULE FLOTTANT CENTRAL
+   ======================== */
+
+.floating-footer {
+    position: fixed;
+    bottom: 2px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fffaf4;
+    border: 2px solid #b33c00;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.15);
+    width: 80%;
+    max-width: 900px;
+    z-index: 9999;
+    padding: 15px 10px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.footer-section {
+    width: 48%;
+}
+
+.footer-section h3 {
+    color: #b33c00;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.adsense, .keywords {
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.1);
+    font-size: 0.9em;
+    text-align: center;
+}
+
+/* ========================
+   RESPONSIVE DESIGN MOBILE
+   ======================== */
+
+@media (max-width: 768px) {
+    .footer-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-section {
+        width: 100%;
+    }
+
+    .floating-footer {
+        width: 90%;
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 1.4em;
+    }
+
+    button, select {
+        font-size: 1em;
+        padding: 8px;
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "entree": [
+        "Soupe de légumes racines au lard fumé",
+        "Salade de lentilles vertes et œuf poché",
+        "Velouté de poireaux et pommes de terre",
+        "Terrine de poisson au citron",
+        "Crème de céleri au bleu d’Auvergne",
+        "Salade de carottes râpées à la coriandre",
+        "Œufs mimosa au thon",
+        "Feuilleté d’escargots au beurre persillé",
+        "Salade de chou rouge et pommes",
+        "Velouté de champignons sauvages",
+        "Tatin d’endives au miel et au chèvre"
+    ],
+    "plat": [
+        "Boulettes de bœuf à la sauce tomate et origan",
+        "Cabillaud rôti sur purée de panais",
+        "Potée auvergnate traditionnelle",
+        "Cuisse de canard confite et pommes sarladaises",
+        "Lasagnes maison à la bolognaise",
+        "Gratin de chou-fleur au jambon cru",
+        "Filet mignon de porc à la moutarde ancienne",
+        "Risotto crémeux aux champignons",
+        "Sauté de veau aux carottes et oignons",
+        "Ragoût d’agneau aux légumes d’hiver",
+        "Parmentier de canard confit"
+    ],
+    "dessert": [
+         "Crêpes fines au sucre et citron",
+        "Fondant au chocolat cœur coulant",
+        "Tarte aux poires et à la frangipane",
+        "Soufflé à la mandarine",
+        "Crème caramel traditionnelle",
+        "Moelleux à la noisette",
+        "Mousse légère au café",
+        "Gâteau de semoule au lait vanillé",
+        "Tarte aux noix du Périgord",
+        "Choux à la crème pâtissière",
+        "Compote de pomme et poire à la cannelle"
+    ]
+}

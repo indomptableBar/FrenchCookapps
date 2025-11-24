@@ -1,0 +1,41 @@
+{
+    "entree": [
+      "Soupe de cresson à la crème",
+        "Salade de jeunes pousses et radis",
+        "Velouté de brocolis au fromage frais",
+        "Tarte fine aux oignons caramélisés",
+        "Œufs cocotte au jambon cru et comté",
+        "Carpaccio de betteraves et noisettes torréfiées",
+        "Salade tiède de poireaux vinaigrette",
+        "Soupe minestrone de printemps",
+        "Crème de petits pois à la menthe",
+        "Salade de quinoa, légumes et herbes fraîches",
+        "Croquettes de morue maison"
+    ],
+    "plat": [
+	"Navarin d’agneau aux légumes nouveaux",
+        "Filet de truite à l’oseille",
+        "Poulet rôti au citron et à l’ail",
+        "Quiche lorraine traditionnelle",
+        "Blanquette de saumon aux poireaux",
+        "Sauté de veau à la printanière",
+        "Gratin de légumes de saison et parmesan",
+        "Pavé de bœuf sauce au poivre",
+        "Cabillaud vapeur, purée de carottes et gingembre",
+        "Curry de légumes façon française",
+        "Risotto aux asperges vertes"
+    ],
+    "dessert": [
+	"Tarte au citron meringuée",
+        "Crêpes Suzette flambées",
+        "Clafoutis aux cerises précoces",
+        "Flan pâtissier à la vanille",
+        "Mousse au chocolat blanc et fruits rouges",
+        "Tiramisu aux fraises françaises",
+        "Tarte fine aux pommes et éclats d’amandes",
+        "Gâteau roulé à la confiture de framboises",
+        "Soufflé à la pistache",
+        "Crème anglaise et madeleines tièdes",
+        "Salade de fruits printaniers au sirop d’agave"
+    ]
+}

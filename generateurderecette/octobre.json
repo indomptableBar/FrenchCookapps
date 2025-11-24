@@ -1,0 +1,38 @@
+{
+    "entree": [
+   "Velouté de potimarron aux éclats de noisettes",
+        "Soupe de châtaignes et champignons",
+        "Salade de betteraves rôties et fromage de chèvre",
+        "Tartine de poire et roquefort",
+        "Feuilleté d’épinards et ricotta",
+        "Soupe à l’oignon gratinée",
+        "Salade tiède de lentilles aux lardons",
+        "Œuf mollet sur purée de céleri",
+        "Terrine de légumes racines au cumin",
+        "Velouté de carottes et gingembre",
+        "Tarte salée aux poireaux et lardons" ],
+    "plat": [
+    "Bœuf bourguignon aux carottes fondantes",
+        "Blanquette de veau à l’ancienne",
+        "Civet de lapin au vin rouge",
+        "Gratin de courge butternut et comté",
+        "Sauté de porc à la moutarde et au miel",
+        "Chou farci façon grand-mère",
+        "Parmentier de canard confit",
+        "Poisson rôti aux légumes d’automne",
+        "Risotto aux champignons des bois",
+        "Poulet rôti à la crème de cèpes",
+        "Tarte salée aux oignons caramélisés"],
+    "dessert": [
+           "Tarte aux pommes et cannelle",
+        "Moelleux au chocolat noir",
+        "Crème de marrons et chantilly maison",
+        "Clafoutis aux poires et miel",
+        "Gâteau renversé à l’ananas",
+        "Soufflé chaud à la vanille",
+        "Poires pochées au caramel",
+        "Crème brulée aux épices douces",
+        "Pain d’épices maison",
+        "Tarte tatin classique",
+        "Compotée de pommes au calvados" ]
+}

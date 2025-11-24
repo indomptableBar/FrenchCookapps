@@ -1,0 +1,41 @@
+{
+    "entree": [
+	"Velouté de courgettes et fromage frais",
+        "Salade de figues, jambon cru et roquette",
+        "Tarte fine aux tomates confites et chèvre",
+        "Soupe froide de poivrons rouges",
+        "Salade de lentilles aux échalotes et vinaigre balsamique",
+        "Œuf mollet sur lit d’épinards",
+        "Terrine de légumes de fin d’été",
+        "Caviar d’aubergine maison",
+        "Clafoutis salé aux tomates séchées",
+        "Salade de quinoa, poivrons et herbes fraîches",
+        "Soupe de potiron légère"
+    ],
+    "plat": [
+	"Filet de dorade au fenouil et citron",
+        "Côtelettes d’agneau au romarin",
+        "Poulet rôti aux figues et au miel",
+        "Gratin dauphinois et rôti de porc",
+        "Risotto aux champignons et parmesan",
+        "Tajine de légumes et pois chiches",
+        "Bavette à l’échalote et pommes grenaille",
+        "Lasagnes de légumes grillés",
+        "Filet mignon de porc à la moutarde",
+        "Poisson en papillote au citron et herbes",
+        "Galette de sarrasin aux légumes"
+    ],
+    "dessert": [
+	"Tarte aux figues et crème d’amande",
+        "Clafoutis aux prunes",
+        "Gâteau moelleux aux pommes",
+        "Crème caramel au beurre salé",
+        "Poires pochées au vin rouge épicé",
+        "Tarte tatin aux poires",
+        "Soufflé chaud à la prune",
+        "Compote de pommes et cannelle maison",
+        "Gâteau à la châtaigne",
+        "Crème au chocolat noir et noisettes grillées",
+        "Moelleux aux amandes et figues fraîches"
+    ]
+}

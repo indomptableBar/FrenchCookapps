@@ -1,0 +1,40 @@
+{
+    "entree": [
+	    "Salade de pommes de terre nouvelles et haricots verts",
+        "Soupe froide de petits pois et menthe",
+        "Omelette aux fines herbes fraîches",
+        "Terrine de légumes du printemps",
+        "Asperges blanches sauce mousseline",
+        "Velouté d’asperges vertes",
+        "Tartelette au fromage de chèvre et tomates cerises",
+        "Salade de betteraves jaunes et oranges",
+        "Œuf mollet sur lit d’épinards",
+        "Feuilleté de champignons à la crème d’ail",
+        "Crudités croquantes et vinaigrette légère au citron"
+    ],
+    "plat": [
+        "Gigot d’agneau rôti au romarin",
+        "Cabillaud au four et courgettes confites",
+        "Poulet fermier à l’estragon",
+        "Filet de dorade aux herbes fraîches",
+        "Lasagnes aux légumes printaniers",
+        "Gratin de courgettes au basilic",
+        "Sauté d’agneau aux petits pois et asperges",
+        "Quenelles de brochet sauce Nantua",
+        "Pavé de saumon aux asperges vertes",
+        "Risotto aux fèves et pecorino",
+        "Tarte salée à la ricotta et épinards"    ],
+    "dessert": [
+	"Fraisier à la crème mousseline",
+        "Tartelette aux fraises et pistaches",
+        "Crème au citron et sablés bretons",
+        "Gâteau au yaourt et au citron vert",
+        "Mousse légère à la rhubarbe",
+        "Tarte à la rhubarbe meringuée",
+        "Clafoutis aux cerises et amandes",
+        "Panna cotta à la vanille et coulis de fraises",
+        "Gâteau de Pâques au chocolat",
+        "Soufflé glacé à la framboise",
+        "Tarte fine à la rhubarbe et au miel"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "entree": [
+        "Soupe aux poireaux et pommes de terre",
+        "Velouté de potiron au lait de coco",
+        "Salade de champignons de saison et noisettes",
+        "Feuilleté au fromage de chèvre et miel",
+        "Terrine de gibier aux herbes",
+        "Soupe de légumes anciens",
+        "Velouté de topinambours et truffe",
+        "Œuf cocotte à la crème de champignons",
+        "Tarte fine aux oignons et comté",
+        "Salade tiède de pommes, noix et roquefort",
+        "Crème de châtaignes salée"
+    ],
+    "plat": [
+        "Daube de bœuf provençale",
+        "Gratin dauphinois et saucisse de Toulouse",
+        "Magret de canard sauce au miel",
+        "Parmentier de confit de canard",
+        "Choucroute garnie traditionnelle",
+        "Civet de sanglier au vin rouge",
+        "Cassoulet maison",
+        "Pot-au-feu aux légumes d’hiver",
+        "Pavé de saumon à la crème et poireaux",
+        "Sauté de veau aux champignons",
+        "Filet mignon de porc au cidre"
+    ],
+    "dessert": [
+        "Tarte aux noix caramélisées",
+        "Gâteau moelleux à la châtaigne",
+        "Crème de potiron à la vanille",
+        "Clafoutis aux poires et chocolat",
+        "Pain d'épices à l’orange",
+        "Soufflé au Grand Marnier",
+        "Moelleux au marron et chocolat noir",
+        "Poires rôties à la cannelle",
+        "Tarte tatin aux coings",
+        "Verrine de crème de marron et chantilly",
+        "Compotée de pommes et poires au vin doux"
+    ]
+}

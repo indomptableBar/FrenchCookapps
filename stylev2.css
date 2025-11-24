@@ -1,0 +1,88 @@
+body {
+    background: linear-gradient(to right, #f8f3ec, #fff);
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 70%;
+    margin: 60px auto;
+    text-align: center;
+    background: #fffdf7;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    padding: 40px;
+}
+
+h1 {
+    color: #b33c00;
+    margin-bottom: 30px;
+}
+
+label {
+    font-weight: 600;
+    font-size: 1.1em;
+}
+
+select, button {
+    margin: 15px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    font-size: 1em;
+}
+
+button {
+    background-color: #b33c00;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #ff6b3d;
+}
+
+.result {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    gap: 20px;
+    text-align: left;
+}
+
+.recette-col {
+    background: #fff7f2;
+    border-radius: 15px;
+    padding: 25px;
+    line-height: 1.6em;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.1);
+}
+
+.links-col {
+    background: #faf3ef;
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #b33c00;
+    border-bottom: 2px solid #b33c00;
+    padding-bottom: 5px;
+}
+
+a.marmiton {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #b33c00;
+    font-weight: 600;
+    transition: color 0.2s;
+}
+
+a.marmiton:hover {
+    color: #ff6b3d;
+}

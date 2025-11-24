@@ -1,0 +1,41 @@
+{
+    "entree": [
+	    "Velouté de potimarron aux éclats de châtaignes",
+        "Foie gras mi-cuit et chutney de figues",
+        "Saint-Jacques poêlées sur purée de panais",
+        "Soupe à l’oignon gratinée",
+        "Terrine de saumon et herbes fraîches",
+        "Œuf cocotte à la truffe",
+        "Salade d’endives, noix et roquefort",
+        "Cappuccino de champignons et crème fouettée",
+        "Cromesquis de fromage fondant",
+        "Feuilleté de chèvre et miel",
+        "Velouté de céleri au curry doux"
+    ],
+    "plat": [
+        "Chapon rôti farci aux marrons",
+        "Filet de bœuf en croûte et jus truffé",
+        "Cassoulet de fêtes au confit de canard",
+        "Pavé de saumon sauce champagne",
+        "Magret de canard aux figues",
+        "Gratin de cardons à la moelle",
+        "Civet de chevreuil aux airelles",
+        "Filet mignon de porc aux pommes et calvados",
+        "Risotto à la truffe et parmesan",
+        "Blanquette de veau à la crème et morilles",
+        "Tournedos Rossini"
+    ],
+    "dessert": [
+	"Bûche de Noël au chocolat noir",
+        "Tarte aux poires et frangipane",
+        "Crème brûlée à la vanille bourbon",
+        "Soufflé au Grand Marnier",
+        "Mousse au chocolat et éclats de noisettes",
+        "Pain d’épices glacé à l’orange",
+        "Mont-Blanc aux marrons glacés",
+        "Tarte tatin aux pommes caramélisées",
+        "Gâteau de Noël aux fruits confits",
+        "Vacherin glacé à la vanille et framboise",
+        "Dôme de chocolat au cœur coulant"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "entree": [
+        "Gaspacho andalou à la tomate bien mûre",
+        "Salade niçoise traditionnelle",
+        "Tartare de tomates et avocat au basilic",
+        "Carpaccio de courgettes et copeaux de parmesan",
+        "Salade de melon, feta et menthe",
+        "Soupe froide de concombre au yaourt",
+        "Clafoutis aux légumes du soleil",
+        "Roulés de jambon au fromage frais et herbes",
+        "Salade de quinoa, petits pois et citron",
+        "Terrine de légumes grillés",
+        "Taboulé à la française"
+    ],
+    "plat": [
+	    "Brochettes de poulet marinées au citron",
+        "Poisson grillé à la plancha et légumes d’été",
+        "Tian de légumes provençal",
+        "Filet mignon au romarin et légumes grillés",
+        "Pâtes fraîches au pesto maison",
+        "Côtelettes d’agneau au thym et ratatouille",
+        "Salade de lentilles et saumon fumé",
+        "Poulet basquaise",
+        "Quinoa aux légumes rôtis et feta",
+        "Gratin de tomates et courgettes au parmesan",
+        "Pavé de bœuf sauce chimichurri"
+    ],
+    "dessert": [
+       "Tarte aux abricots et amandes",
+        "Mousse légère à la framboise",
+        "Sorbet maison à la pastèque",
+        "Fraises au vin rouge et poivre",
+        "Pêches rôties au miel et au thym",
+        "Clafoutis aux cerises",
+        "Tarte aux fruits rouges et crème vanille",
+        "Gâteau roulé à la fraise",
+        "Granité au citron vert",
+        "Crème glacée à la vanille et éclats de nougat",
+        "Soupe glacée de fruits d’été" 
+    ]
+}

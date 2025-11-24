@@ -1,0 +1,39 @@
+{
+    "entree": [
+	"Salade de melon, jambon cru et mozzarella",
+        "Tartare de tomates et basilic frais",
+        "Velouté froid de courgettes et ricotta",
+        "Salade de haricots verts et œufs durs",
+        "Asperges vertes grillées et parmesan",
+        "Clafoutis salé aux tomates cerises",
+        "Carpaccio de courgettes au citron et pignons",
+        "Tarte fine aux poivrons confits",
+        "Œuf poché sur lit de ratatouille",
+        "Salade de riz, maïs et thon",
+        "Soupe froide de concombre à la menthe"    ],
+    "plat": [
+	 "Filet de bar au fenouil et citron",
+        "Poulet rôti au thym et légumes primeurs",
+        "Tian de légumes provençaux",
+        "Pâtes fraîches aux asperges et crème légère",
+        "Brochettes de bœuf marinées au vin rouge",
+        "Saumon à la vapeur, beurre citronné",
+        "Quiche aux épinards et fromage de chèvre",
+        "Risotto aux petits pois et menthe",
+        "Côte de veau grillée et pommes grenaille",
+        "Ratatouille niçoise",
+        "Gratin de légumes au pesto" ],
+    "dessert": [
+	    "Tarte aux fraises et crème pâtissière",
+        "Pavlova aux fruits rouges",
+        "Soupe de fruits frais à la menthe",
+        "Mousse légère au citron",
+        "Clafoutis aux cerises de saison",
+        "Tarte rhubarbe-fraise fondante",
+        "Gâteau moelleux à la pistache",
+        "Crème légère à la fleur d’oranger",
+        "Sorbet maison à la fraise",
+        "Fruits rôtis au miel et au romarin",
+        "Gâteau de semoule aux raisins et vanille"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "entree": [
+        "Salade de tomates cœur de bœuf au basilic",
+        "Gaspacho andalou glacé",
+        "Tartare de saumon et concombre",
+        "Salade de melon, jambon cru et roquette",
+        "Rouleaux de légumes grillés au fromage frais",
+        "Soupe froide de poivrons et tomate",
+        "Salade de quinoa, courgettes et menthe",
+        "Carpaccio de bœuf à la roquette",
+        "Tarte fine aux tomates confites",
+        "Légumes grillés marinés à l’huile d’olive",
+        "Rillettes de thon à l’aneth" ],
+    "plat": [
+        "Brochettes de crevettes marinées au citron vert",
+        "Lapin en cocotte à la moutarde et estragon",
+        "Filet de bar au beurre citronné",
+        "Tian de légumes aux herbes de Provence",
+        "Côtelettes d’agneau grillées à l’ail",
+        "Pâtes fraîches aux tomates cerises et basilic",
+        "Risotto aux légumes d’été",
+        "Poivrons farcis à la ricotta et épinards",
+        "Poulet rôti au citron et romarin",
+        "Gratin de légumes au chèvre frais",
+        "Salade de bœuf froid et haricots verts"
+    ],
+    "dessert": [
+	"Tarte aux nectarines et aux amandes",
+        "Salade de fruits exotiques au citron vert",
+        "Crème glacée à la fraise maison",
+        "Panna cotta au coulis d’abricots",
+        "Tarte fine aux figues et miel de lavande",
+        "Sorbet au melon et menthe",
+        "Clafoutis aux pêches blanches",
+        "Mousse légère aux framboises",
+        "Gâteau moelleux à la noix de coco",
+        "Soupe de fruits rouges au vin rosé",
+        "Tarte sablée aux prunes"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "entree": [
+"Velouté de potimarron aux éclats de châtaignes",
+ "Salade tiède d'endives et noix",
+ "Soupe à l'oignon gratinée",
+ "Terrine de campagne maison",
+ "Œufs cocotte aux champignons et crème",
+ "Salade de betteraves rouges et fromage de chèvre",
+ "Crème de topinambours au parmesan",
+ "Feuilleté aux poireaux et au comté",
+ "Carpaccio de céleri-rave et pommes",
+ "Velouté de carottes au cumin",
+ "Salade de mâche, noix et pommes"],
+    "plat": ["Bœuf bourguignon traditionnel",
+        "Blanquette de veau à l’ancienne",
+        "Cassoulet toulousain",
+        "Chou farci façon grand-mère",
+        "Pot-au-feu parfumé aux herbes",
+        "Saucisses lentilles du Puy",
+        "Civet de lièvre au vin rouge",
+        "Gratin dauphinois et jambon rôti",
+        "Filet de cabillaud en croûte d’herbes",
+        "Poulet basquaise",
+        "Tartiflette savoyarde"
+    ],
+    "dessert": [
+"Galette des rois à la frangipane",
+"Soufflé chaud au chocolat noir",
+ "Crème brûlée à la vanille",
+ "Tarte tatin aux pommes caramélisées",
+ "Mousse au chocolat fondante",
+ "Île flottante à la fleur d’oranger",
+ "Moelleux aux marrons glacés",
+ "Clafoutis aux poires et amandes",
+ "Pain d’épices maison",
+ "Poire pochée au vin rouge épicé",
+ "Crêpes Suzette à l’orange"]
+}

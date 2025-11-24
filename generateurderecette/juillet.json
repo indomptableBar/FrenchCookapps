@@ -1,0 +1,41 @@
+{
+    "entree": [
+	"Gaspacho de tomates et poivrons grillés",
+        "Salade de tomates anciennes et mozzarella di bufala",
+        "Tartine de fromage frais et radis croquants",
+        "Soupe froide de courgettes à la menthe",
+        "Salade de melon, basilic et jambon sec",
+        "Taboulé de quinoa et herbes fraîches",
+        "Tomates farcies froides au thon",
+        "Salade de pastèque, feta et olives noires",
+        "Tian froid de légumes grillés",
+        "Carpaccio de tomates au vinaigre balsamique",
+        "Rillettes de maquereau citronnées"
+    ],
+    "plat": [
+        "Brochettes de poulet marinées aux herbes de Provence",
+        "Filet de dorade grillé au citron vert",
+        "Poivrons farcis au riz et légumes",
+        "Ratatouille provençale maison",
+        "Pavé de thon à la plancha",
+        "Salade tiède de pommes de terre et saucisse fumée",
+        "Calamars sautés à la persillade",
+        "Gratin de courgettes et tomates au fromage de chèvre",
+        "Burger maison au bœuf charolais",
+        "Pâtes fraîches au coulis de tomates maison",
+        "Tarte salée aux légumes du soleil"
+    ],
+    "dessert": [
+	"Tarte aux pêches et verveine",
+        "Soupe glacée de fruits rouges",
+        "Crème légère au citron et framboises",
+        "Panna cotta au coulis de mangue",
+        "Glace maison à la vanille bourbon",
+        "Tarte aux abricots caramélisés",
+        "Melon au porto",
+        "Diplomate aux fruits d’été",
+        "Salade de fruits frais au basilic",
+        "Clafoutis pêche-abricot",
+        "Sorbet citron-basilic"
+    ]
+}

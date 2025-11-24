@@ -1,0 +1,111 @@
+<?php
+// ====================
+// GESTION DES RECETTES
+// ====================
+function getRecettes($mois) {
+    $mois = strtolower(trim($mois));
+    $basePath = __DIR__ . '/generateurderecette/';
+    $fichier = $basePath . $mois . '.json';
+
+    if (!file_exists($fichier)) {
+        return [
+            "entree" => "Aucune donnée disponible pour ce mois.",
+            "plat" => "",
+            "dessert" => ""
+        ];
+    }
+
+    $jsonData = file_get_contents($fichier);
+    $data = json_decode($jsonData, true);
+
+    if (!$data) {
+        return [
+            "entree" => "Erreur de lecture du fichier JSON.",
+            "plat" => "",
+            "dessert" => ""
+        ];
+    }
+
+    return [
+        "entree" => $data["entree"][array_rand($data["entree"])],
+        "plat" => $data["plat"][array_rand($data["plat"])],
+        "dessert" => $data["dessert"][array_rand($data["dessert"])]
+    ];
+}
+
+// ====================
+// GESTION AJAX
+// ====================
+if (isset($_POST['mois'])) {
+    header('Content-Type: application/json');
+    echo json_encode(getRecettes($_POST['mois']));
+    exit;
+}
+?>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Générateur de Recettes Gastronomiques</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- SEO par défaut -->
+    <meta name="description" content="Générateur de recettes françaises gastronomiques de saison. Découvrez des entrées, plats et desserts adaptés à chaque mois de l’année.">
+    <meta name="keywords" content="recette française, cuisine gastronomique, plat de saison, recette d'hiver, recette d'été, gastronomie française">
+</head>
+<body>
+    <div class="container">
+<div style="text-align: center;">
+  <img decoding="async" src="generateur-de-menu-fr.png" alt="Image Description">
+</div>
+        <h1>🍷 Générateur de Recettes Françaises de Saison 🇫🇷</h1>
+
+        <div class="form">
+            <label for="mois">Choisissez un mois :</label>
+            <select id="mois">
+                <option value="">-- Sélectionnez --</option>
+                <option>Janvier</option>
+                <option>Février</option>
+                <option>Mars</option>
+                <option>Avril</option>
+                <option>Mai</option>
+                <option>Juin</option>
+                <option>Juillet</option>
+                <option>Août</option>
+                <option>Septembre</option>
+                <option>Octobre</option>
+                <option>Novembre</option>
+                <option>Décembre</option>
+            </select>
+            <button id="generate">Générer</button>
+        </div>
+
+        <div id="result" class="result"></div>
+    </div>
+
+    <!-- ======================== -->
+    <!--        FOOTER ZONE        -->
+    <!-- ======================== -->
+    <footer class="footer">
+        <div class="footer-column">
+            <h3>🪙 Publicité</h3>
+            <div class="adsense">
+                <!-- Exemple de bloc Google AdSense -->
+                <p><em>Espace réservé pour Google AdSense</em></p>
+                <!-- Exemple : 
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXX" crossorigin="anonymous"></script>
+                -->
+            </div>
+        </div>
+
+        <div class="footer-column">
+            <h3>🔑 Mots-clés SEO</h3>
+            <div class="keywords" id="seoKeywords">
+                <p>recette française, gastronomie, plat de saison, cuisine de chef, entrée gourmande, dessert raffiné, cuisine traditionnelle, produits locaux</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
