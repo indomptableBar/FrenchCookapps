@@ -2,9 +2,19 @@ name: PHP Composer
 
 on:
   push:
-    branches: [ "main" ]
+    branches: 
+      - "main"
+    paths:
+      - "index.php"
+      - "indexv1.php"
+      - "indexv2.php"
   pull_request:
-    branches: [ "main" ]
+    branches: 
+      - "main"
+    paths:
+      - "index.php"
+      - "indexv1.php"
+      - "indexv2.php"
 
 permissions:
   contents: read
